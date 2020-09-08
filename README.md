@@ -5,7 +5,7 @@ Solidworks files are here!
 <br/>
 <br/>
 
-Thingiverse link: All stl files and documents are on Thingiverse. 
+Thingiverse link: All STL files and documents are on Thingiverse. 
 -----------------------------------------------------------------
 [https://www.thingiverse.com/thing:4577026](https://www.thingiverse.com/thing:4577026)
 <br/>
